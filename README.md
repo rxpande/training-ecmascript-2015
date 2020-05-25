@@ -4,13 +4,10 @@
 
 This Branch Will Cover Below Topics
 
-ES2015 Intermediate (
-    Set, 
-    Map, 
-    Symbol, 
-    WeakMap
-    WeakSet, 
-    getter/setter, 
-    calculated props, 
-    Object keys/values, 
+ES2015 Advance (
+    Promise, 
+    Interator, 
+    Generator,
+    Classes, 
+    Inheritance
 )

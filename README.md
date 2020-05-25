@@ -5,9 +5,9 @@
 This Branch Will Cover Below Topics
 
 ES2015 Advance (
+    Classes, 
     Promise, 
     Interator, 
     Generator,
-    Classes, 
     Inheritance
 )
